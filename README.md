@@ -23,7 +23,7 @@ Please note that to run this script, you need to have the necessary permissions 
 
 1. Clone this repository to your local system
 2. Navigate to the repository directory
-3. Run the ViperAudit.ps1 PowerShell script
+3. Run the Viper.ps1 PowerShell script
 4. When prompted, enter:
     * The start date for audit logs as a number of days ago (0-90)
     * The directory to save the audit logs
